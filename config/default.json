@@ -1,0 +1,11 @@
+{
+    "port":3156,
+    "mysql":{
+        "host":"localhost",
+        "dialect":"mysql",
+        "username":"root",
+        "password":"",
+        "database":"qurbaniHissa"
+    }
+}
+
